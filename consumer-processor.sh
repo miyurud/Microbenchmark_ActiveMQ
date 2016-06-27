@@ -1,0 +1,1 @@
+java -Xmx3072m -Xms3072m -cp .:bin:lib/activemq-core-5.3.0.jar:lib/geronimo-jms_1.1_spec-1.1.1.jar:lib/commons-logging-1.1.1.jar:lib/commons-io-2.4.jar:lib/esper-5.0.0.jar:lib/activemq-core-5.3.0.jar:lib/cglib-nodep-2.2.jar:lib/javaee-api-6.0.jar:lib/avro-tools-1.7.6.jar:lib/antlr-4.3-complete.jar org.microbench.esper.layer.processor.Processor
